@@ -1,0 +1,132 @@
+{
+  "products": [
+    {
+      "id": 100,
+      "title": "Dummy Voucher #1",
+      "description": "Lorem ipsum dolor sit amet minim consectetuer est at sadipscing eos voluptua zzril autem voluptua sit amet duo elit elitr sadipscing lorem invidunt lorem consetetur amet sit clita sed et no dolor et et hendrerit takimata eirmod qui sed magna clita invidunt sed diam clita tempor ut facer",
+      "instock": 99,
+      "price": 12500,
+      "discountedPrice": 690,
+      "period": "1 Sep 2023 to 31 Dec 2023",
+      "type": "room",
+      "images": [
+        {
+          "src": "https://dummyimage.com/600x400",
+          "width": 600,
+          "height": 400
+        },
+        {
+          "src": "https://dummyimage.com/600x400",
+          "width": 600,
+          "height": 400
+        },
+        {
+          "src": "https://dummyimage.com/600x400",
+          "width": 600,
+          "height": 400
+        },
+        {
+          "src": "https://dummyimage.com/600x400",
+          "width": 600,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": 101,
+      "title": "Dummy Voucher #2",
+      "description": "Lorem ipsum dolor sit amet minim consectetuer est at sadipscing eos voluptua zzril autem voluptua sit amet duo elit elitr sadipscing lorem invidunt lorem consetetur amet sit clita sed et no dolor ",
+      "instock": 50,
+      "price": 20000,
+      "discountedPrice": 10000,
+      "period": "1 Oct 2023 to 31 Dec 2023",
+      "type": "dining",
+      "images": [
+        {
+          "src": "https://dummyimage.com/600x400",
+          "width": 600,
+          "height": 400
+        },
+        {
+          "src": "https://dummyimage.com/600x400",
+          "width": 600,
+          "height": 400
+        },
+        {
+          "src": "https://dummyimage.com/600x400",
+          "width": 600,
+          "height": 400
+        },
+        {
+          "src": "https://dummyimage.com/600x400",
+          "width": 600,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": 102,
+      "title": "Dummy Voucher #3",
+      "description": "Lorem ipsum dolor sit amet minim consectetuer est at sadipscing eos voluptua zzril autem voluptua sit amet duo elit elitr sadipscing lorem et et hendrerit takimata eirmod qui sed magna clita invidunt sed diam clita tempor ut facer",
+      "instock": 8,
+      "price": 5090,
+      "discountedPrice": 1050,
+      "period": "1 Nov 2023 to 31 Dec 2023",
+      "type": "room",
+      "images": [
+        {
+          "src": "https://dummyimage.com/600x400",
+          "width": 600,
+          "height": 400
+        },
+        {
+          "src": "https://dummyimage.com/600x400",
+          "width": 600,
+          "height": 400
+        },
+        {
+          "src": "https://dummyimage.com/600x400",
+          "width": 600,
+          "height": 400
+        },
+        {
+          "src": "https://dummyimage.com/600x400",
+          "width": 600,
+          "height": 400
+        }
+      ]
+    },
+    {
+      "id": 103,
+      "title": "Dummy Voucher #4",
+      "description": "Lorem ipsum dolor sit amet miniing lorem invidunt lorem consetetur amet sit clita sed et no dolor et et hendrerit takimata eirmod qui sed magna clita invidunt sed diam clita tempor ut facer",
+      "instock": 12,
+      "price": 12500,
+      "discountedPrice": 8900,
+      "period": "1 Dec 2023 to 31 Dec 2023",
+      "type": "room",
+      "images": [
+        {
+          "src": "https://dummyimage.com/600x400",
+          "width": 600,
+          "height": 400
+        },
+        {
+          "src": "https://dummyimage.com/600x400",
+          "width": 600,
+          "height": 400
+        },
+        {
+          "src": "https://dummyimage.com/600x400",
+          "width": 600,
+          "height": 400
+        },
+        {
+          "src": "https://dummyimage.com/600x400",
+          "width": 600,
+          "height": 400
+        }
+      ]
+    }
+  ]
+}
